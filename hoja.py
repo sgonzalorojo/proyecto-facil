@@ -8,3 +8,7 @@ def mult(a, b):
 
 print(sumar(12, 4))
 
+def div(a, b):
+    return a / b
+
+print(div(12, 4))
